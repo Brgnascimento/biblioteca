@@ -50,4 +50,4 @@ def excluir_registro(conn, cursor, id):
 adicionar(conn, cursor, livros)
 
 
-# cursor.execute('DROP TABLE livros')
+# cursor.execute('DROP TABLE livros') 
